@@ -16,4 +16,6 @@ public class menufactory {
     public static menu getFastfoodMenuOne(int id){
         return FASTFOOD_MENU[id];
     }
+
+
 }
